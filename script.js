@@ -30,6 +30,8 @@ function text5 () {
   document.getElementById('text3').style.display = 'none'
   document.getElementById('text4').style.display = 'none'
   document.getElementById('text5').style.display = 'block'
+  document.getElementById('text6').style.display = 'none'
+  document.getElementById('text7').style.display = 'none'
 }
 
 function text6 () {

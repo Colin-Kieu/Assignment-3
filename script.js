@@ -1,7 +1,7 @@
 document.getElementById('jd').addEventListener('click', text1)
 document.getElementById('school').addEventListener('click', text2)
-document.getElementById('Outlook').addEventListener('click', text5)
-document.getElementById('Salary').addEventListener('click', text6)
+document.getElementById('outlook').addEventListener('click', text5)
+document.getElementById('salary').addEventListener('click', text6)
 document.getElementById('vocation').addEventListener('click', text7)
 
 function text1 () {
